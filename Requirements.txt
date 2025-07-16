@@ -1,0 +1,6 @@
+google-generativeai
+pyttsx3
+sounddevice
+numpy
+keyboard
+openai-whisper
